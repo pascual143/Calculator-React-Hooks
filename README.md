@@ -1,8 +1,8 @@
 # Calculator-React-Hooks
 React calculator with Hooks 
 
-#calculator
+# calculator
 
-#Javascript, React, Hooks
+# Javascript, React, Hooks
 
 calculator
