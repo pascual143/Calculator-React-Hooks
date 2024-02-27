@@ -5,4 +5,4 @@ React calculator with Hooks
 
 # Javascript, React, Hooks
 
-calculator
+calculadora
